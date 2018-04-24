@@ -1,10 +1,9 @@
 # Youtube Like App
 
-Youtube Like Single Page Application.
+Youtube Like in a Single Page Application.
 
 ## Built With
-* [Ruby](https://www.ruby-lang.org/)
-
-## License
-
-See the [LICENSE](LICENSE.md) file for license rights and limitations (MIT).
+* [ReactJs](https://reactjs.org/)
+* [Jest](https://facebook.github.io/jest/)
+* [React Test Utilities](https://reactjs.org/docs/test-utils.html)
+* [Enzyme](https://github.com/airbnb/enzyme)
